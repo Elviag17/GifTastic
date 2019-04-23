@@ -1,0 +1,26 @@
+
+body {background-image: url("../../assets/img/pink_rice.png");
+}
+.btn{
+    margin: 7px;
+    background-color:white;
+
+}
+
+.gif{
+    margin: 10px;
+}
+
+.movieDiv{
+    display: inline-block;
+}
+
+.form{
+    float:right;
+    position: absolute;
+    top : 20px;
+    right: 10px;
+}
+
+
+
